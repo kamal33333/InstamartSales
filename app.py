@@ -29,11 +29,11 @@ def process_instamart_data():
                     {"Item Code": "758911", "SP": 230.00, "Retail Code": "NAP-024", "No. Of Packs": 2},
                     {"Item Code": "285835", "SP": 325.00, "Retail Code": "K-ONEGSM70", "No. Of Packs": 1},
                     {"Item Code": "427622", "SP": 344.00, "Retail Code": "K-ONEGSM75", "No. Of Packs": 1},
-                    {"Item Code": "432124", "SP": 200.00, "Retail Code": "NAP-028", "No. of packs": 4},
-                    {"Item Code": "443486", "SP": 67.50,  "Retail Code": "NAP-029", "No. of packs": 1},
-                    {"Item Code": "603435", "SP": 165.00, "Retail Code": "NAP-009", "No. of packs": 3},
-                    {"Item Code": "781783", "SP": 312.00, "Retail Code": "BT-043", "No. of packs": 1},
-                    {"Item Code": "937132", "SP": 152.00, "Retail Code": "FT-003", "No. of packs": 2}
+                    {"Item Code": "432124", "SP": 200.00, "Retail Code": "NAP-028", "No. Of Packs": 4},
+                    {"Item Code": "443486", "SP": 67.50,  "Retail Code": "NAP-029", "No. Of Packs": 1},
+                    {"Item Code": "603435", "SP": 165.00, "Retail Code": "NAP-009", "No. Of Packs": 3},
+                    {"Item Code": "781783", "SP": 312.00, "Retail Code": "BT-043", "No. Of Packs": 1},
+                    {"Item Code": "937132", "SP": 152.00, "Retail Code": "FT-003", "No. Of Packs": 2}
                 ]
                 
                 master_subset = pd.DataFrame(master_data)
